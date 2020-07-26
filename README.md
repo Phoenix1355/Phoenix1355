@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Christian H. Bohlbro &mdash; @phoenix1355</h1>
+
+Hi 👋, I'm Christian.
+
+I’m a software engineering student, part-time developer, and music enthusiast. I’m currently located in Aarhus, Denmark where I work at a student developer at [DanskeBank](https://danskebank.dk/) on their mobile banking application, [MobilBank](https://apps.apple.com/dk/app/mobilbank-dk-danske-bank/id1133885137).
+
+Feel free to check out my website at [bohlbro.dk](https://bohlbro.dk)
 
 <!--
 **Phoenix1355/Phoenix1355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
