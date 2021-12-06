@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Christian.
 
-I’m a software engineering student, part-time developer, and music enthusiast. I’m currently located in Aarhus, Denmark where I work at a student developer at [DanskeBank](https://danskebank.dk/) on their mobile banking application, [MobilBank](https://apps.apple.com/dk/app/mobilbank-dk-danske-bank/id1133885137).
+I’m a software engineering student, part-time developer, and music enthusiast. I’m currently located in Aarhus, Denmark, where I study at Aarhus Univeristy and work as a student developer at [DanskeBank](https://danskebank.dk/) on their mobile banking application, [Mobile Bank](https://apps.apple.com/dk/app/mobilbank-dk-danske-bank/id1133885137).
 
 Feel free to check out my website at [bohlbro.dk](https://bohlbro.dk)
 
