@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Christian.
 
-I’m a software engineer, D&D nerd, and music enthusiast. I’m currently located in Aarhus, Denmark, where I work full-time at [DanskeBank](https://danskebank.dk/) on their mobile banking application, [Mobile Bank](https://apps.apple.com/dk/app/mobilbank-dk-danske-bank/id1133885137) and I have a master's degree in Software Engineering from Aarhus University.
+I’m a software engineer, D&D nerd, and music enthusiast. I’m currently located in Aarhus, Denmark, where I work full-time at [Vibrant.io](https://vibrant.io/) as an App Developer on their payment solutions, and I have a master's degree in Software Engineering from Aarhus University.
 
 Feel free to check out my website at [bohlbro.dk](https://bohlbro.dk)
 
